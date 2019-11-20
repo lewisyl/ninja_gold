@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    margin: 2vw;
+}
+
+.badge, .badge-warning {
+    font-size: 1.5em;
+}
+
+span.border {
+    font-size: 1.5em;
+    padding: auto 3vw;
+}
+
+div.col {
+    margin: 1vw;
+
+}
+
+div.activities {
+    height: 15vw;
+    margin-right: 2vw
+}
+
+.btn {
+    margin-bottom: 1vw;
+}
+
+.lost {
+    color: red;
+}
+
+.earned {
+    color: green;
+}
+
+.submit a {
+    margin: 1vw auto;
+}
